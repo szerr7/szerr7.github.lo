@@ -38,9 +38,9 @@ p:first-letter {
           line-height: 1;
           font-weight: bold;
           margin-right: 3px;
-          color: #9c0;
+          color: rgb(228, 235, 209);
     font-family: "Times New Roman", Times, serif;
-    text-shadow: #690 .05em .05em;
+    text-shadow: rgb(6, 6, 6) .05em .05em;
 }
       
 
@@ -61,4 +61,14 @@ p:first-letter {
 dt{
 
           color: yellow;
+}
+
+p{
+          transform: scale(1, -1);
+          color: #000080;
+          -moz-transform: scale(1, -1);
+          -webkit-transform: scale(1, -1);
+          -o-transform: scale(1, -1);
+          -ms-transform: scale(1, -1);
+          transform: scale(1, -1);
 }
