@@ -23,7 +23,13 @@ h2 ,p {
 }
 
 a{
+          
           text-decoration: none;
+
+          
+}
+a :hover{
+          color: rgb(81, 0, 255);
 }
 
 p:first-letter {
