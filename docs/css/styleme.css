@@ -21,3 +21,8 @@ h1 , footer{
 h2 ,p {
           font-family: Arial, Helvetica, sans-serif ,'Times New Roman', Times, serif ,Verdana, Geneva, Tahoma, sans-serif
 }
+
+a{
+          text-decoration: none;
+}
+
