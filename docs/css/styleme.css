@@ -6,20 +6,20 @@ img {
        
 }
 
-h1 , footer{
+h1 {
 
           color: yellow;
 
           background-color: rgba(209, 22, 150, 0.591);
 
-
-
+          width: 25vh;
 
 }
 
 
 h1{
     border: 2px solid  black;
+    width: 30vw;
 }
 
 p{
