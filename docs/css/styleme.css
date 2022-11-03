@@ -5,3 +5,23 @@ img {
           border: 1px solid rgb(110, 26, 213);
        
 }
+
+h1 , footer{
+
+          color: yellow;
+
+          background-color: rgba(209, 22, 150, 0.591);
+
+
+
+
+}
+
+
+h2 ,p {
+          font-family: Arial, Helvetica, sans-serif ,'Times New Roman', Times, serif ,Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1{
+   font: 'Brush Script';      
+}
